@@ -23,7 +23,7 @@ I actively practice **Data Structures and Algorithms** on LeetCode. My problem-s
 - Greedy Algorithms  
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/afsertanveer" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mdafser" alt="LeetCode Stats" />
 </div>
 
 ---
