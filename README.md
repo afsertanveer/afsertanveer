@@ -32,6 +32,11 @@ I actively practice **Data Structures and Algorithms** on LeetCode. My problem-s
 
 <div align="center">
   
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
@@ -50,17 +55,18 @@ I actively practice **Data Structures and Algorithms** on LeetCode. My problem-s
 <div align="center">
 
   <a href="https://www.linkedin.com/in/md-afser/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <a href="https://mdafserportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?logo=About.me&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
   </a>
 
   <a href="https://leetcode.com/u/mdafser/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
 </div>
 
 ---
+
