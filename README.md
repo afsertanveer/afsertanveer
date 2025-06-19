@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Md. Afser 👋</h1>
 
 <div align="center">
-  <img src="/images/afser-tanveer-card.png" alt="Md. Afser" width="400" />
+  <img src="/images/afser-tanveer-card.png" alt="Md. Afser" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
