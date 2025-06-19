@@ -39,7 +39,6 @@ I actively practice **Data Structures and Algorithms** on LeetCode. My problem-s
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
 
 </div>
@@ -48,9 +47,20 @@ I actively practice **Data Structures and Algorithms** on LeetCode. My problem-s
 
 ## 📫 Let's Connect
 
-- 🔗 [GitHub](https://github.com/afsertanveer)
-- 🧠 [LeetCode](https://leetcode.com/afsertanveer)
-- 🌐 [Portfolio Website](https://afsertanveer.dev) *(if available)*
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/md-afser/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  
+  <a href="https://mdafserportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?logo=About.me&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://leetcode.com/u/mdafser/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
+  </a>
+
+</div>
 
 ---
-
